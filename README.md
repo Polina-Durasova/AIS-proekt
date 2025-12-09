@@ -41,11 +41,11 @@
 
 🛠 Технологии
 
-Backend: Python, Flask / FastAPI
+Backend: Python, Django
 
-Frontend: React, HTML, CSS
+Frontend: HTML, CSS
 
-База данных:
+База данных: IMDB Dataset
 
 API взаимодействие: REST / JSON
 
